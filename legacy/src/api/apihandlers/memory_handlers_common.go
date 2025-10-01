@@ -18,7 +18,7 @@ import (
 
 const (
 	maxMessagesPerMemory = 30
-	maxMessageLength     = 2500
+	maxMessageLength     = 50000
 	maxLongMessageLength = 100_000
 	DefaultLastNMessages = 6
 )
